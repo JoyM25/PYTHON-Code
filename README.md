@@ -1,3 +1,1 @@
-# DEMO
-FIRST REPO
-AUTHOR - JOY
+# Walmart Sales Analysis with Python Pandas Code
